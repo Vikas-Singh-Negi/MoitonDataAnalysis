@@ -1,4 +1,4 @@
-# Motion Data Analysis using Spatial Data Science
+# Motion Data Analysis and Visualization using Spatial Data Science
 
 Application of open source resources to visualize movement data obtained from GPS
 
